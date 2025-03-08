@@ -1,0 +1,16 @@
+{
+  "name": "javascript-expert--tdd",
+  "version": "1.0.0",
+  "description": "A project to learn TDD by writing tests before implementing features, ensuring reliable and maintainable code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./seed"
+  },
+  "keywords": [],
+  "author": "Willy Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0"
+  }
+}
