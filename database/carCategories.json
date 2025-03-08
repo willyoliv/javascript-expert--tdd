@@ -1,1 +1,12 @@
-[{"id":"a9594b50-0e0a-494b-966e-f0afe798eedc","name":"Cargo Van","carIds":["ab71ce2c-a8a6-41fd-b963-6467ba054a62","2adff8ef-1e2e-4369-8329-37eab12da14a","d114ce38-f21f-41b2-9eae-bfeaf2c4d37e"],"price":"148.46"}]
+[
+  {
+    "id": "992baca9-a182-4981-88fc-020280ba193d",
+    "name": "Wagon",
+    "carIds": [
+      "455d8606-f5da-4b38-84a7-5a515962ea24",
+      "ee906d40-bd9c-46a4-8c29-3a88f5fa65d6",
+      "4b1a23f5-83db-4674-afc1-87eb94ceec0f"
+    ],
+    "price": "923.20"
+  }
+]
