@@ -18,7 +18,7 @@
 - Then I must add the Tax of his age which is 30% to the car category price
 - Then the final formula will be `((price per day * Tax) * number of days)`
 - And the final result will be `((37.6 * 1.3) * 5)= 244.4`
-- And the final price will be printed in Brazilian Portuguese format as "R$ 244,00"
+- And the final price will be printed in Brazilian Portuguese format as "R$ 244,40"
 
 ## Use Case 03
 

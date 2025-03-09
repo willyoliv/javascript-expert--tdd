@@ -7,5 +7,8 @@
   "reporter": [
     "text",
     "html"
+  ],
+  "exclude": [
+    "src/repository/base/*.js"
   ]
 }
